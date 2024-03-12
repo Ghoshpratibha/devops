@@ -17,4 +17,7 @@ public class Service {
     public boolean compareThings() {
         return false;
     }
+    public String getStringPart2() {
+        return "Nayank";
+    }
 }
