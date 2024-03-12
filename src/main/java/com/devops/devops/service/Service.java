@@ -15,6 +15,6 @@ public class Service {
     }
 
     public boolean compareThings() {
-        return true;
+        return false;
     }
 }
