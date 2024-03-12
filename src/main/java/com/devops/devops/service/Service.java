@@ -13,4 +13,8 @@ public class Service {
     public boolean getBoolean() {
         return true;
     }
+
+    public boolean compareThings() {
+        return true;
+    }
 }
